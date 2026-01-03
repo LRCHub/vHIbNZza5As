@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "「君の音だったんだ」",
+  "base_artist": "≠ME",
+  "createdAt": "2026-01-03T16:18:05.355805Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の音だったんだ",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_君の音だったんだ_≠ME.txt"
+    }
+  ]
+}
