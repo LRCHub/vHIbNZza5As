@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "「君の音だったんだ」",
   "base_artist": "≠ME",
-  "createdAt": "2026-01-03T16:18:05.355805Z",
+  "createdAt": "2026-04-05T13:34:32.705863Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "≠ME",
       "has_synced": false,
       "path": "select/pl_01_君の音だったんだ_≠ME.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "「君の音だったんだ」",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/localdb_01_「君の音だったんだ」_≠ME.txt",
+      "repo_name": "vHIbNZza5As"
     }
   ]
 }
